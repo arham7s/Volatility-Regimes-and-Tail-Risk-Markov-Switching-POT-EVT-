@@ -1,0 +1,2 @@
+delta_xi,ci_lo,ci_hi,p_value,bootstrap_method,B,seed,stress_regime,calm_regime
+0.5919032519329505,0.019437732786592617,1.0846559795737272,0.04,parametric GPD bootstrap conditional on selected thresholds/exceedance counts,2000,20250907,1,0

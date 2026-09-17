@@ -1,0 +1,2 @@
+test,LR_statistic,df,p_value,common_xi_hat,reject_common_shape_at_5pct
+bootstrap likelihood-ratio (common-shape null),6.66018928777639,1,0.005,0.010329792666420761,True

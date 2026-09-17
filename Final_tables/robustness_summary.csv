@@ -1,0 +1,10 @@
+K,xi_by_regime,xi_range,feasible,check,regime,q_alt,xi,n_exc,eligible,subperiod
+3.0,"{0: nan, 1: -0.12162269183160936, 2: 0.12187405374058667}",,False,alternative_K,,,,,,
+,,,,alternative_threshold,0.0,0.905,-0.18245086899300317,126.0,True,
+,,,,alternative_threshold,0.0,0.9550000000000001,-0.25131776508716475,60.0,True,
+,,,,alternative_threshold,1.0,0.9349999999999999,0.12994858545167487,58.0,True,
+,,,,alternative_threshold,1.0,0.985,,14.0,False,
+,,,,subperiod_stability,0.0,,-0.22409617479517588,93.0,True,pre_covid
+,,,,subperiod_stability,0.0,,,0.0,False,post_covid
+,,,,subperiod_stability,1.0,,0.3678070771377746,36.0,True,pre_covid
+,,,,subperiod_stability,1.0,,,0.0,False,post_covid

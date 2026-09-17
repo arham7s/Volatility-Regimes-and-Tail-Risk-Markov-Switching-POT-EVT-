@@ -1,0 +1,8 @@
+sector,selected_K,regime,regime_label,xi,ci_lo,ci_hi,n_exceed,fit_success,failure_reason
+NIFTY500,2.0,0.0,Calm,-0.06240879625275986,-0.32928495962959864,0.15717495790467695,66,True,
+NIFTY500,2.0,1.0,Stress,0.21662177257851173,-0.12737401324930378,0.5433506356527855,45,True,
+NIFTYBANK,2.0,0.0,Calm,-0.26034282668680286,-0.5885900046118598,-0.05674582531266431,64,True,
+NIFTYBANK,2.0,1.0,Stress,0.13202295369357803,-0.2775582084154967,0.4507248768371696,48,True,
+NIFTYIT,,,,,,,0,False,K-selection failed: STEP 5: no candidate K satisfies the feasibility screen; see regime_count_validation.csv
+NIFTYPHARMA,2.0,0.0,Calm,-0.3312057799528855,-0.5753742022363891,-0.12885101251023942,76,True,
+NIFTYPHARMA,2.0,1.0,Stress,,,,22,False,insufficient exceedances at q=0.95

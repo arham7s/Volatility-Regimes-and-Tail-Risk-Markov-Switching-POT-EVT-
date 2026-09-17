@@ -1,0 +1,4 @@
+K,converged,val_predictive_loglik,avg_log_score,min_occupancy,min_persistence,min_expected_duration,hessian_se_status,identification_pass,feasible,rejection_reason,selected
+2,True,2120.225709736947,2.8651698780229014,0.22598870056497175,0.922071169691529,12.83222134916734,ok,True,True,,True
+3,True,2117.7189430522394,2.861782355475999,0.04930662557781202,0.2346100636771672,1.3065235803913304,singular,False,False,regime(s) [1] below minimum EVT sample size (300 hard-smoothed obs required); regime(s) [1] expected duration below 2.0 days; identification screen failed: min adjacent sigma ratio=1.068 (threshold=1.15),False
+4,True,2117.981983893797,2.8621378160726985,0.02465331278890601,6.8857791968302e-07,1.0000006885783939,singular,True,False,"regime(s) [1, 2, 3] below minimum EVT sample size (300 hard-smoothed obs required); regime(s) [3] expected duration below 2.0 days",False

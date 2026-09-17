@@ -1,0 +1,4 @@
+alpha,n,seed,true_var,true_es,mean_score_true_forecast,mean_score_understated_forecast,mean_score_overstated_forecast,orientation,loss_convention,test_passed
+0.95,20000,20250907,0.032897072539029446,0.041254256150148515,-3.1852183561411707,1.851365846931814,-2.6968793903308907,lower FZ0 score = better forecast,"positive loss units in, converted internally to signed-return AL-log-score form",True
+0.975,20000,20250907,0.03919927969080108,0.04675605584402826,-3.060309122376767,5.361746281801743,-2.531035341238347,lower FZ0 score = better forecast,"positive loss units in, converted internally to signed-return AL-log-score form",True
+0.99,20000,20250907,0.04652695748081682,0.05330428440691612,-2.9348128927932158,13.649029908457177,-2.3657355187358653,lower FZ0 score = better forecast,"positive loss units in, converted internally to signed-return AL-log-score form",True

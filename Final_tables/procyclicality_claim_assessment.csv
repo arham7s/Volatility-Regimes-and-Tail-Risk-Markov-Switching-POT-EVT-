@@ -1,0 +1,2 @@
+primary_cv_es,min_benchmark_cv_es,primary_is_least_variable,primary_max_20d_pct_increase,median_benchmark_max_20d_pct_increase,primary_more_reactive,supported_claim
+0.35653702348959315,0.015839700121165257,False,2.155198996286811,0.5517444666788676,True,"faster state-dependent adaptation / more responsive stress recognition, NOT less procyclical (its ES coefficient of variation is not the lowest among benchmarks)"
